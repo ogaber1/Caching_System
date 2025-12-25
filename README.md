@@ -53,6 +53,7 @@ In GTKWave, add these signals:
 - Cache Miss: 70-150 ns
 - Cache Hit: 390-440 ns
 - Write Operation: 540-610 ns
+- LRU Replacement: 1505-1585 ns
 
 ## Results
 
